@@ -1,1 +1,1 @@
-This is a gender prediction project built using Tkinter library
+# Gender Prediction using Python
